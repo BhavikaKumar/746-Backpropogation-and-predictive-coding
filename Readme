@@ -1,4 +1,4 @@
-### Description of files
+Description of files
 
 1. Utils.py - Contains standard function definition.
 2. dataset.py - dataset is fetched and distributed into training and test set.
