@@ -1,8 +1,9 @@
-Description of files,
-1. Utils.py - Comtains standard function defination.
-2. dataset.py - dataset is read and distributed into training and test set.
-3. Layer.py  - Various types of layers are defined in terms of class and definations to be used in the neural network
-4. cnn.py - PCnet and brackprop class is defined, containing essential functions for training and test.
+### Description of files
+
+1. Utils.py - Contains standard function definition.
+2. dataset.py - dataset is fetched and distributed into training and test set.
+3. neural_layers.py  - Various types of layers are defined in terms of class and definations to be used in the neural network
+4. cnn.py - PCnet and brackprop architecture defined, containing essential functions for training and test.
 5. main.py - The main run files, intiallized the dataset and training and testing is done depending on the type of training algothrim selected.
 
 We have tested the algo on CIFAR-10 dataset. The data is saved in execl file and the plots are generated using matlab.
